@@ -1,5 +1,7 @@
 # Simulated soil carbon changes in switchgrass grown on marginal lands under climate change and adaptation strategies
 
+[![DOI](https://zenodo.org/badge/274799771.svg)](https://zenodo.org/badge/latestdoi/274799771)
+
 ## Overview
 
 This repository contains simulated data of soil organic carbon (SOC) changes under bioenergy switchgrass under current and projected climate. The data was generated using the Systems Approach to Land-Use Sustainability (SALUS) model. SALUS is a cropping systems simulation platform that contains processed-based models derived from the well-validated CERES model, providing simulation of crop growth and development, and carbon, water, nitrogen (N), and phosphorus cycling dynamics on a daily time step. The model uses as input daily values of incoming solar radiation (MJ m^-2), maximum and minimum air temperature (°C), and rainfall (mm), as well as information on soil characteristics and management. For more information about the model visit: <https://basso.ees.msu.edu/salus/index.html>. 
